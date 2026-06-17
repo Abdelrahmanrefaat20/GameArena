@@ -1,0 +1,68 @@
+/* sm */
+/* @media (min-width: 576px) {
+  .prfile-item {
+    width: 100%;
+  }
+} */
+/* md */
+@media (min-width: 768px) {
+}
+/* lg */
+@media (max-width: 992px) {
+      #gamesCarousel .carousel-item .col-lg-4 {
+    width: 100%;
+  }
+
+  #gamesCarousel .row {
+    flex-wrap: nowrap;
+  }
+
+  #gamesCarousel .game-card {
+    max-width: 100%;
+  }
+}
+
+/* xl */
+@media (min-width: 1200px) {
+}
+/* xxl */
+@media (min-width: 1400px) {
+}
+@media (max-width: 768px) {
+
+ .section-1 h1 , .section-1 span {
+    font-size: x-large;
+    line-height: 1.5625rem;
+
+ }
+
+ .section-1 img{
+    height: 12.5rem;
+    width: 2.5rem;
+    top: 0;
+ }
+  .section-1 .btn{
+    width: 100%;
+    margin-bottom: .75rem;
+  }
+  .section-1 .box-section1{
+    width: 40%;
+    height: 35%;
+  }
+
+.section-1{
+    height: 75vh;
+}
+
+  #gamesCarousel .carousel-item .col-lg-4 {
+    width: 100%;
+  }
+
+  #gamesCarousel .row {
+    flex-wrap: nowrap;
+  }
+
+  #gamesCarousel .game-card {
+    max-width: 100%;
+  }
+}
